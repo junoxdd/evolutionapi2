@@ -1,0 +1,4 @@
+2025/04/22-16:51:44.631 2c8c Creating DB C:\Users\Marcelo\evolution-api\tokens\universe-session\Default\Service Worker\Database since it was missing.
+2025/04/22-16:51:44.649 2c8c Reusing MANIFEST C:\Users\Marcelo\evolution-api\tokens\universe-session\Default\Service Worker\Database/MANIFEST-000001
+2025/04/22-16:51:44.650 2c8c Recovering log #3
+2025/04/22-16:51:44.652 2c8c Reusing old log C:\Users\Marcelo\evolution-api\tokens\universe-session\Default\Service Worker\Database/000003.log 

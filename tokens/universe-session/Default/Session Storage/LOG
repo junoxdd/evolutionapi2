@@ -1,0 +1,4 @@
+2025/04/22-16:51:41.752 3f24 Creating DB C:\Users\Marcelo\evolution-api\tokens\universe-session\Default\Session Storage since it was missing.
+2025/04/22-16:51:41.940 3f24 Reusing MANIFEST C:\Users\Marcelo\evolution-api\tokens\universe-session\Default\Session Storage/MANIFEST-000001
+2025/04/22-16:51:41.941 3f24 Recovering log #3
+2025/04/22-16:51:41.956 3f24 Reusing old log C:\Users\Marcelo\evolution-api\tokens\universe-session\Default\Session Storage/000003.log 
